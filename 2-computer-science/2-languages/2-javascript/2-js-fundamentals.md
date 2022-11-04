@@ -1,22 +1,5 @@
 # Brief introduction to JavaScript
 
-## Core technologies of the web
-
-* HTML:
-  * Responsible for contents of the web page (texts, images, buttons, etc.).
-
-* CSS:
-
-  * Responsible for the presentation of the HTML contents (styling and laying out elements on the webpage).
-
-* Javascript:
-
-  * The real programming langauge of the internet.
-
-* Allows developers to add dynamic and interactive effects to any webpage.
-
-* Also used to manipulate content, load data from remote servers and build entire applications in the browser which we call web applications.
-
 ## JavaScript
 
 JavaScript is a high-level, object-oriented, multi-paradigm programming langauge.
